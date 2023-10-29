@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+.inputsDiv{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+.inputsDiv input, button{
+    margin: 15px;
+}
+
+#divv1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
